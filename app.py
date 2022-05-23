@@ -1,3 +1,6 @@
 
 
 print( 'cedric' )
+
+Bug fixed
+
